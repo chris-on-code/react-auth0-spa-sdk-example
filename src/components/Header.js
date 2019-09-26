@@ -9,7 +9,7 @@ export default function Header() {
     <header>
       <nav className="navbar is-dark">
         <div className="container">
-          <div className="navbar-menu">
+          <div className="navbar-menu is-active">
             {/* logo */}
             <div className="navbar-brand">
               <Link to="/" className="navbar-item">

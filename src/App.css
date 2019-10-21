@@ -2,4 +2,8 @@
   .navbar-brand .navbar-item {
     color: #4a4a4a !important;
   }
+  
+  .navbar-brand .navbar-item:hover {
+    color: #eee !important;
+  }
 }
